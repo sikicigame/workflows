@@ -35,5 +35,5 @@ jobs:
 
       - name: Kapanış
         run: |
-          sleep 20
+          sleep 300
           exit 0
